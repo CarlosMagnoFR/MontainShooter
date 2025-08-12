@@ -1,0 +1,13 @@
+Bibliotecas Utilizadas neste Módulo:
+
+Numpy
+Plotly
+
+Baixar Sprites de Imagens
+
+https://craftpix.net
+https://opengameart.org
+
+Baixar Sons
+
+https://freesound.org
