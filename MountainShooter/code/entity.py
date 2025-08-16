@@ -14,4 +14,5 @@ class Entity(ABC):
 
     @abstractmethod
     def move(self, ):
+
         pass
