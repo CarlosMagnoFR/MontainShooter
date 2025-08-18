@@ -10,12 +10,12 @@ from code.const import WIN_WIDTH, COLOR_ORANGE, MENU_OPTION, COLOR_WHITE, COLOR_
 class Menu:
     def __init__(self, window):
         self.window = window
-        self.surf = pygame.image.load('./asset/MenuBg.png') # Carregando a imagem
+        self.surf = pygame.image.load('./asset/MenuBg.png').convert_alpha() # Carregando a imagem
         self.rect = self.surf.get_rect(left=0, top=0) # Criando um Quadrado para receber a imagem
 
     def run(self, ):
         menu_option = 0
-        pygame.mixer_music.load('./asset/Menu.wav') # Carregamento de Sons
+        pygame.mixer_music.load('./asset/Menu.mp3') # Carregamento de Sons
         pygame.mixer_music.play(-1) # Parametro para loop infinito
         while True:
             #DESENHAR AS IMAGENS
