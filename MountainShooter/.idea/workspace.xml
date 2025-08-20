@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eddefba4-b50f-4d41-af34-3b12b1e10948" name="Changes" comment="Hit Box Collisions&#10;HUD&#10;Score" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CarlosMagnoFR&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CarlosMagnoFR/MontainShooter.git&quot;,
+    &quot;accountId&quot;: &quot;5b56a23d-a862-40bf-b59d-a61b390e4775&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="31CYZoIT1hz7KQ2xn8b6xvA51f3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.menu.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature__level&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\magno\Documents\Programas\CodeGame\MountainShooter\code" />
+      <recent name="C:\Users\magno\Documents\Programas\CodeGame\MountainShooter" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MountainShooter" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eddefba4-b50f-4d41-af34-3b12b1e10948" name="Changes" comment="" />
+      <created>1755029579370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755029579370</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Início do Projeto">
+      <option name="closed" value="true" />
+      <created>1755031197065</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755031197065</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Início do Projeto">
+      <option name="closed" value="true" />
+      <created>1755031264317</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755031264317</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding classes generated from StarUML">
+      <option name="closed" value="true" />
+      <created>1755198550071</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1755198550071</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creating main loop&#10;Connecting Menu and Game classes">
+      <option name="closed" value="true" />
+      <created>1755199484780</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755199484780</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding New Assets&#10;Creating the menu: background, sound and fonts&#10;Creating the const file">
+      <option name="closed" value="true" />
+      <created>1755206396379</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755206396379</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Creating">
+      <option name="closed" value="true" />
+      <created>1755382564272</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1755382564272</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Creating menu interations&#10;Creating ABC class&#10;Creating Factory&#10;Level 1 Bg implementation: parallax">
+      <option name="closed" value="true" />
+      <created>1755382817520</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1755382817520</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Creating Players and Enemies&#10;Moving players and Enemies">
+      <option name="closed" value="true" />
+      <created>1755548537862</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1755548537862</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Creating Mediator Pattern. &#10;Enemies Destruction.">
+      <option name="closed" value="true" />
+      <created>1755696870495</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1755696870495</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Creating Player Shot&#10;Creating Enemy Shot">
+      <option name="closed" value="true" />
+      <created>1755698965268</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1755698965268</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Hit Box Collisions&#10;HUD&#10;Score">
+      <option name="closed" value="true" />
+      <created>1755718719853</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1755718719853</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Início do Projeto" />
+    <MESSAGE value="Adding classes generated from StarUML" />
+    <MESSAGE value="Creating main loop&#10;Connecting Menu and Game classes" />
+    <MESSAGE value="Adding New Assets&#10;Creating the menu: background, sound and fonts&#10;Creating the const file" />
+    <MESSAGE value="Creating" />
+    <MESSAGE value="Creating menu interations&#10;Creating ABC class&#10;Creating Factory&#10;Level 1 Bg implementation: parallax" />
+    <MESSAGE value="Creating Players and Enemies&#10;Moving players and Enemies" />
+    <MESSAGE value="Creating Mediator Pattern. &#10;Enemies Destruction." />
+    <MESSAGE value="Creating Player Shot&#10;Creating Enemy Shot" />
+    <MESSAGE value="Hit Box Collisions&#10;HUD&#10;Score" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hit Box Collisions&#10;HUD&#10;Score" />
+  </component>
+</project>
