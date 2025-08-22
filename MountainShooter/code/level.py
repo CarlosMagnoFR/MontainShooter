@@ -2,17 +2,16 @@
 # -*- coding: utf-8 -*-
 import random
 import sys
-from random import choice
 
 import pygame
 from pygame import Surface, Rect
 from pygame.font import Font
 
-from code.EntityMediator import EntityMediator
 from code.const import C_WHITE, WIN_HEIGHT, MENU_OPTION, EVENT_ENEMY, SPAWN_TIME, C_GREEN, C_CYAN, EVENT_TIMEOUT, \
     TIMEOUT_STEP, TIMEOUT_LEVEL
 from code.enemy import Enemy
 from code.entity import Entity
+from code.EntityMediator import EntityMediator
 from code.entityFactory import EntityFactory
 from code.player import Player
 
@@ -37,6 +36,7 @@ class Level:
 
     def run(self, player_score: list[int]):
         pygame.mixer_music.load(f'./asset/{self.name}.mp3')
+        pygame.mixer_music.set_volume(0.3)
         pygame.mixer_music.play(-1)
         clock = pygame.time.Clock()
         while True:
